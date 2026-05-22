@@ -1,7 +1,8 @@
-streamlit
-tensorflow=cpu
-numpy
-pandas
-scikit-learn
-lightgbm
-joblib
+streamlit==1.35.0
+tensorflow-cpu==2.12.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+lightgbm==4.3.0
+joblib==1.4.2
+protobuf==3.20.*
